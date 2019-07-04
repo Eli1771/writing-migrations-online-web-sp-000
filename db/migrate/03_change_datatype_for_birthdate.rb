@@ -1,3 +1,3 @@
-class ChangeDatatypeForBirthdate::Migration[5.1]
+class ChangeDatatypeForBirthdate < ActiveRecords::Migration[5.1]
   
 end
